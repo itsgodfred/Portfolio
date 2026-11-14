@@ -7,9 +7,9 @@ import {
   useLocation,
   Link,
 } from "react-router-dom";
-import Home from "./Components/Home";
-import Navbar from "./Components/Navbar";
-import About from "./Components/About";
+import Home from "./components/Home";
+import Navbar from "./components/Navbar";
+import About from "./components/About";
 
 export const navContext = createContext();
 
