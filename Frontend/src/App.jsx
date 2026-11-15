@@ -28,11 +28,11 @@ function App() {
 
   return (
     <div className="relative flex flex-col gap-2 font-text text-[#0E1A2B] flex-1 overflow-clip">
-      <span className="absolute -left-15 -top-20 h-40 w-40 blur-[90px] bg-[#1F4FD1]"></span>
-      <span className="absolute left-[43%] top-[15%] h-50 w-50 blur-[90px] bg-[#1F4FD1]"></span>
-      <span className="absolute -right-40 top-[18%] h-40 w-40 blur-[90px] bg-[#1F4FD1]"></span>
-      <span className="absolute left-[43%] top-[40%] h-40 w-40 blur-[90px] bg-[#1F4FD1] -z-10"></span>
-      <span className="absolute left-[43%] -bottom-40 h-40 w-40 blur-[90px] bg-[#1F4FD1] -z-10"></span>
+      <span className="absolute -left-15 -top-20 h-40 w-40 blur-[93px] bg-[#1F4FD1]"></span>
+      <span className="absolute left-[43%] top-[15%] h-50 w-50 blur-[93px] bg-[#1F4FD1]"></span>
+      <span className="absolute -right-40 top-[18%] h-40 w-40 blur-[93px] bg-[#1F4FD1]"></span>
+      <span className="absolute left-[43%] top-[40%] h-40 w-40 blur-[93px] bg-[#1F4FD1] -z-10"></span>
+      <span className="absolute left-[43%] -bottom-40 h-40 w-40 blur-[93px] bg-[#1F4FD1] -z-10"></span>
       <navContext.Provider
         value={{
           navstate,
