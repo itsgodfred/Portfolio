@@ -25,7 +25,7 @@ function Projects() {
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, amount: 0.1 }}
       transition={{ duration: 1, ease: "easeOut" }}
-      className="w-full flex flex-col justify-center items-center pt-20 scroll-mt-26"
+      className="w-full flex flex-col justify-center items-center pt-20 scroll-mt-40"
       id="projects"
     >
       <h1 className="font-header font-black text-[24px] mb-5">
