@@ -11,7 +11,7 @@ function Skills() {
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, amount: 0.1 }}
       transition={{ duration: 1, ease: "easeOut" }}
-      className="flex flex-col justify-center items-center pt-30 scroll-mt-24"
+      className="flex flex-col justify-center items-center pt-30 scroll-mt-26"
       id="stack"
     >
       <h1 className="font-header font-black text-[24px]">
